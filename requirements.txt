@@ -1,5 +1,5 @@
-Flask
-numpy
-pandas
+Flask==1.1.2
+numpy==1.19.5
+pandas==1.1.5
 torchvision==0.9.0
-pickle==1.0.2
+pickle
